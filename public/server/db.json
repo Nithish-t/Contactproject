@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Brad ",
+      "company": "YouTube",
+      "email": "brad@gmail.com",
+      "title": "Youtube",
+      "mobile": "9876546787",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "groupId": "3"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Vladeen Min",
+      "company": "Service",
+      "email": "vladeen@gmail.com",
+      "title": "Electrician",
+      "mobile": "9876546787",
+      "photo": "https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg",
+      "groupId": "4"
+    },
+    {
+      "name": "Rajan",
+      "photo": "https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/256/User-icon.png",
+      "mobile": "9090909090",
+      "email": "rajan@gmail.com",
+      "company": "HCL Technologies",
+      "title": "Software Engineer",
+      "groupId": "1",
+      "id": "kLt-bJF"
+    },
+    {
+      "name": "Nithish",
+      "photo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAAB9CAMAAAC4XpwXAAAAYFBMVEVVYIDn7O3////s8fFSXX5LV3pNWXtHU3e2vMbv9PRqdI6mrrpDUHXo6e08SnFbZoTIy9SVnK5xeZNjbYrP0dmEi6H4+PqPlaigpbW+wczw8POnrLuvtsHg4ufX2d95gZl++I2+AAAF/ElEQVRogcWb6bazKgyGqSJUP1tn7aTe/10e1O5OSvLS6jr5t/eyPgYCZEJ47lK35fmaVXmRCCGSIq+y67ls6y/eJFzBaRYJFQRKSSkmkVKZf0gRZanrJ7jQL2UTSa3+qJ8ilZZRU142oadNElvJzy+IkyaFRwCkH04q5siPL4jV6bAiPc2PCkRPoo55uhI9TQI39sgPEoDP0stco0P+LlLn5Y/0Q/Ule+JXzPzT9CtsahZ+fP2a3gn9E3sQnXTf0U/Bb4rf1Q+yL+iXPFiBPUiQW7c/G70U7qvMJlLajN9C3/9obh/4+OZCb+IV2YPEDU6v1prypwQ9SK97dKHJQcBndb9w8s3pNaC58SfMYZsURVQYB2f6i5NgAT+n9xxcBsciu5Xdbuf7oe/vdl15y4ojuzssDP6MzsFVXO13YWigL+KH4W5fxcwi1TP8J72h4Uplrf9OfnyB32WK5geflv9Bv9FLLei7ZfT9Azpm5OI9RS9puL5a9H7qf6XXS1za6Rd6/ehbSLIHCW8kXsqLlR6R8GDPww1+Tw6+jGz0jPydPiFwgz+R2genZXpHf3QOsQdhhrBbpCf0pJ9pg3uKf6anXizRaWuVEQo3eFp5fZ3TD8xKvznQb8yqP8zoFb1NH2H2IEfyXbL6pJf0LiETzOAnCWkTErr8oOf086pyojMDKft3eso4FMEJn3Yz8SfmoNTpG50ZKqH+OdH/MWetLF7pKedRKAeTB+giSF/oOfe0q+6sNvmTfqBXyPCtK9PF8fCgn9i4ZXW6Ov3Ra96JXZ0uVH2np3zksj49Tu/0Bn",
+      "mobile": "88888888",
+      "email": "Nithish@gmail.com",
+      "company": "TY",
+      "title": "gt",
+      "groupId": "",
+      "id": "yiRmusv"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
